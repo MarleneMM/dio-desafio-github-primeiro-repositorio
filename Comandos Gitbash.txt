@@ -1,0 +1,8 @@
+
+ - Ctrl l - limpa a tela
+ - git clone - clona o repositório
+ - git status - status do repositório
+ - git add .  - envia o arquivo para staged
+ - git add -a  - envia todos os arquivos para staged
+ - ls lista
+ - start notepad ++ nomedoarquivo - abre um arquivo no bloco de notas
